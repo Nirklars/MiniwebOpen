@@ -3,7 +3,7 @@ MiniWebOpen - Quick Folder Web Server
 
 This software adds a context menu option to Windows Explorer that allows you to instantly start a web server in any folder.
 
-![Preview image](Windows Explorer - Right Click Open as a webserver.png)
+![Screenshot](Windows Explorer - Right Click Open as a webserver.png)
 
 # DOWNLOAD:
 - https://github.com/Nirklars/MiniwebOpen/blob/main/MiniWebOpen-Installer.exe
@@ -13,29 +13,29 @@ This software includes miniweb, a minimalistic web server developed by Avih.
 miniweb is licensed under the GNU Lesser General Public License v2.0 (LGPLv2).
 Source code and license details: https://github.com/avih/miniweb
 
-# FEATURES:
+**FEATURES:**
 - Right-click on any folder and select 'Open as a webserver'
 - Right-click on empty space within any folder and select 'Open as a webserver'
 - Automatically starts miniweb.exe serving files from the selected folder
 - Opens your browser to http://localhost:3333 automatically
 - Works with both regular folders and virtual folders
 
-# USAGE:
+**USAGE:**
 1. Navigate to any folder in Windows Explorer
 2. Right-click on the folder icon or empty space within the folder
 3. Select 'Open as a webserver' from the context menu
 4. A web server will start on port 3333 and your browser will open
 
-# LICENSE:
+**LICENSE:**
 MiniWebOpen installer and context menu integration is developed by Nirklars.
 The included miniweb executable is licensed under LGPLv2 by Avih.
 See lgpl-2.0.txt for the full license terms.
 
-# UNINSTALL:
+**UNINSTALL:**
 Use 'Add or Remove Programs' in Windows Settings to uninstall.
 
-Publisher: Nirklars
 MiniWeb Open as a Webserver repository: https://github.com/Nirklars/MiniwebOpen
 Miniweb original repository: https://github.com/avih/miniweb
+
 
 
