@@ -1,0 +1,17 @@
+Third-Party Software Attribution
+===============================
+
+MiniWebOpen includes the following third-party software:
+
+miniweb - Minimalistic web server
+---------------------------------
+Author: Avih
+Repository: https://github.com/avih/miniweb
+License: GNU Lesser General Public License v2.0 (LGPLv2)
+
+The LGPLv2 license grants you the freedom to:
+- Use the software for any purpose
+- Study how the software works and modify it
+- Distribute original or modified versions
+
+Full license text is available in lgpl-2.0.txt
