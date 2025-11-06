@@ -6,6 +6,9 @@ OutFile "MiniWebOpen-Installer.exe"
 InstallDir "$PROGRAMFILES\MiniWebOpen"
 RequestExecutionLevel admin
 
+; Add this single line for the welcome image
+!define MUI_WELCOMEFINISHPAGE_BITMAP "welcome.bmp"
+
 !define MUI_WELCOMEPAGE_TEXT "This installer will set up MiniWebOpen, which adds a context menu option to quickly start a web server in any folder.$\r$\n$\r$\nMiniWebOpen includes miniweb, a minimalistic web server developed by Avih and distributed under LGPLv2 license.$\r$\n$\r$\nWhen installed, you can right-click on any folder or within any folder's empty space and select 'Open as a webserver' to instantly start a web server serving files from that location.$\r$\n$\r$\nClick Next to continue."
 
 !insertmacro MUI_PAGE_WELCOME
