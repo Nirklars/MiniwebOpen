@@ -35,6 +35,8 @@ It is licensed under several open source licenses: https://nsis.sourceforge.io/L
 
 **LICENSE:**
 
+The install software NSIS script is free to use for any purpose. 
+
 The included miniweb executable is licensed under LGPLv2 by Avih.
 
 See lgpl-2.0.txt for the full license terms.
@@ -48,6 +50,7 @@ Use 'Add or Remove Programs' in Windows Settings to uninstall.
 MiniWeb Open as a Webserver repository: https://github.com/Nirklars/MiniwebOpen
 
 Miniweb original repository: https://github.com/avih/miniweb
+
 
 
 
