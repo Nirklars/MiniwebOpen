@@ -29,14 +29,16 @@ This software includes miniweb, a minimalistic web server developed by Avih.
 miniweb is licensed under the GNU Lesser General Public License v2.0 (LGPLv2).
 Source code and license details: https://github.com/avih/miniweb
 
-This software is built using NSIS Nullsoft Installer System. 
-https://nsis.sourceforge.io/Main_Page
+This software is built using NSIS Nullsoft Installer System: https://nsis.sourceforge.io/Main_Page
+
 It is licensed under several open source licenses: https://nsis.sourceforge.io/License
 
 **LICENSE:**
 
 The included miniweb executable is licensed under LGPLv2 by Avih.
+
 See lgpl-2.0.txt for the full license terms.
+
 See NSIS license: https://nsis.sourceforge.io/License
 
 **UNINSTALL:**
@@ -44,7 +46,9 @@ See NSIS license: https://nsis.sourceforge.io/License
 Use 'Add or Remove Programs' in Windows Settings to uninstall.
 
 MiniWeb Open as a Webserver repository: https://github.com/Nirklars/MiniwebOpen
+
 Miniweb original repository: https://github.com/avih/miniweb
+
 
 
 
