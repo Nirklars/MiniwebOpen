@@ -78,7 +78,6 @@ Section "Install"
   FileWrite $0 "See lgpl-2.0.txt for the full license terms.$\r$\n$\r$\n"
   FileWrite $0 "UNINSTALL:$\r$\n"
   FileWrite $0 "Use 'Add or Remove Programs' in Windows Settings to uninstall.$\r$\n$\r$\n"
-  FileWrite $0 "Publisher: Nirklars$\r$\n"
   FileWrite $0 "miniweb repository: https://github.com/avih/miniweb$\r$\n"
   FileClose $0
 
@@ -99,6 +98,11 @@ Section "Install"
   FileWrite $0 "- Distribute original or modified versions$\r$\n"
   FileWrite $0 "$\r$\n"
   FileWrite $0 "Full license text is available in lgpl-2.0.txt$\r$\n"
+  FileWrite $0 "$\r$\n"
+  FileWrite $0 "Nullsoft Install System$\r$\n"
+  FileWrite $0 "---------------------------------$\r$\n"
+  FileWrite $0 "This software is built using NSIS Nullsoft Installer System: https://nsis.sourceforge.io/Main_Page$\r$\n"
+  FileWrite $0 "It is licensed under several open source licenses: https://nsis.sourceforge.io/License$\r$\n"
   FileClose $0
 
   ; Uninstall entry with company name and description

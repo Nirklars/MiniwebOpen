@@ -15,3 +15,9 @@ The LGPLv2 license grants you the freedom to:
 - Distribute original or modified versions
 
 Full license text is available in lgpl-2.0.txt
+
+Nullsoft Install System
+---------------------------------
+This software is built using NSIS Nullsoft Installer System: https://nsis.sourceforge.io/Main_Page
+
+It is licensed under several open source licenses: https://nsis.sourceforge.io/License
