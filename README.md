@@ -1,7 +1,7 @@
 MiniWebOpen - Quick Open Folder as a Web Server
 =====================================
 
-This software adds a context menu option to Windows Explorer that allows you to instantly start a web server in any folder.
+This software adds a context menu option to Windows Explorer when right clicking that allows you to instantly start a web server for that folder and open it in your browser.
 
 This is useful when web developing and a website can't be served properly from file:/// due to security limitations. 
 
@@ -52,6 +52,7 @@ Use 'Add or Remove Programs' in Windows Settings to uninstall or run the install
 MiniWeb Open as a Webserver repository: https://github.com/Nirklars/MiniwebOpen
 
 Miniweb original repository: https://github.com/avih/miniweb
+
 
 
 
