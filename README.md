@@ -45,11 +45,12 @@ See NSIS license: https://nsis.sourceforge.io/License
 
 **UNINSTALL:**
 
-Use 'Add or Remove Programs' in Windows Settings to uninstall.
+Use 'Add or Remove Programs' in Windows Settings to uninstall or run the installer again.
 
 MiniWeb Open as a Webserver repository: https://github.com/Nirklars/MiniwebOpen
 
 Miniweb original repository: https://github.com/avih/miniweb
+
 
 
 
