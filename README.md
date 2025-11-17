@@ -19,7 +19,7 @@ This software adds a context menu option to Windows Explorer that allows you to 
 **USAGE:**
 
 1. Navigate to any folder in Windows Explorer
-2. Right-click on the folder icon or empty space within the folder
+2. Right-click on the folder icon or empty space within the folder (For Windows 11 hold down SHIFT when right clicking) 
 3. Select 'Open as a webserver' from the context menu
 4. A web server will start on port 3333 and your browser will open
 
@@ -50,6 +50,7 @@ Use 'Add or Remove Programs' in Windows Settings to uninstall.
 MiniWeb Open as a Webserver repository: https://github.com/Nirklars/MiniwebOpen
 
 Miniweb original repository: https://github.com/avih/miniweb
+
 
 
 
