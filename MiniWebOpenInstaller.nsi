@@ -50,7 +50,7 @@ Section "Install"
   FileWrite $0 '@echo off$\r$\n'
   FileWrite $0 'echo Starting MiniWeb server in: %1$\r$\n'
   FileWrite $0 'echo Miniweb is licensed under LGPLv2 - https://github.com/avih/miniweb$\r$\n'
-  FileWrite $0 'start "MiniWeb" "$INSTDIR\miniweb.exe" -r "%1" -p 3333$\r$\n'
+  FileWrite $0 'start "MiniWeb" "$INSTDIR\miniweb.exe" -r "%~1" -p 3333$\r$\n'
   FileWrite $0 'timeout /t 1 /nobreak > nul$\r$\n'
   FileWrite $0 'start http://localhost:3333$\r$\n'
   FileClose $0
